@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pcumiskeyboomerang.github.io/csb-98m3b/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pcumiskeyboomerang.github.io/csb-98m3b/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://pcumiskeyboomerang.github.io/csb-98m3b/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://pcumiskeyboomerang.github.io/csb-98m3b/static/js/runtime-main.321436ce.js",
+    "runtime-main.js.map": "https://pcumiskeyboomerang.github.io/csb-98m3b/static/js/runtime-main.321436ce.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://pcumiskeyboomerang.github.io/csb-98m3b/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://pcumiskeyboomerang.github.io/csb-98m3b/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://pcumiskeyboomerang.github.io/csb-98m3b/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pcumiskeyboomerang.github.io/csb-98m3b/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://pcumiskeyboomerang.github.io/csb-98m3b/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.321436ce.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
